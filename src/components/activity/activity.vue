@@ -8,7 +8,7 @@
                 <div class="pic MB10"><img :src="item.imgurl"></div>
                 <p class="intro">{{item.abstract}}</p>
                 <div class=" border_line_top H01px MB10"></div>
-                <p class="detail">查看详情dfds</p>
+                <p class="detail">查看详情</p>
             </router-link>
         </div>
     </div>
