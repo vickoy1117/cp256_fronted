@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <div style="height:40px;">
+        <div style="height:40px;">fdfdd
             <div class="logoTop">
                 <a href="/member/member" class="logoLogin" v-if="!this.$store.state.isLogined">登录</a>
                 <a href="/member/member" class="logoLogin" v-if="this.$store.state.isLogined"><span class="icon-account"></span></a>
